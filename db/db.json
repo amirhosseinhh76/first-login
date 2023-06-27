@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "name": "amir",
+      "age": 26,
+      "grade": 20,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Moji",
+      "age": 26,
+      "grade": 10
+    },
+    {
+      "name": "Mori",
+      "age": 25,
+      "grade": 15,
+      "id": 3
+    },
+    {
+      "name": "AmirReza",
+      "age": 25,
+      "grade": 16,
+      "id": 4
+    },
+    {
+      "name": "Morteza",
+      "age": 26,
+      "grade": 20,
+      "id": 5
+    }
+  ],
+  "user": [
+    {
+      "name": "test",
+      "email": "test@test.test",
+      "pass": "testtest",
+      "id": 1
+    },
+    {
+      "name": "amir",
+      "email": "yahoo",
+      "pass": "et",
+      "id": 2
+    },
+    {
+      "name": "mahdis",
+      "email": "mahdis@gmail.com",
+      "pass": "12345",
+      "id": 3
+    },
+    {
+      "name": "moji",
+      "email": "test@moji.com",
+      "pass": "yamoji",
+      "id": 4
+    },
+    {
+      "name": "Morteza",
+      "email": "mori@test.com",
+      "pass": "0936"
+    }
+  ]
+}
